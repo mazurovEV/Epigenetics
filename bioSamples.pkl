@@ -1,0 +1,35 @@
+(lp0
+S'A549'
+p1
+ag1
+aS'astrocyte'
+p2
+aS'endothelial cell of umbilical vein'
+p3
+aS'fibroblast of dermis'
+p4
+aS'fibroblast of lung'
+p5
+aS'GM12878'
+p6
+aS'H1-hESC'
+p7
+aS'HCT116'
+p8
+aS'HepG2'
+p9
+aS'K562'
+p10
+aS'keratinocyte'
+p11
+aS'mammary epithelial cell'
+p12
+aS'MCF-7'
+p13
+aS'myotube'
+p14
+aS'osteoblast'
+p15
+aS'skeletal muscle myoblast'
+p16
+a.

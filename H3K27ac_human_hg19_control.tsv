@@ -1,0 +1,23 @@
+File accession	Control file name	Control experiment	Biosample term name	Control url	Size
+ENCFF000AKM	ENCFF000AHF	ENCSR000ASS	A549	https://www.encodeproject.org/files/ENCFF000AHF/@@download/ENCFF000AHF.bigWig	644963127
+ENCFF000AKE	ENCFF000AGZ	ENCSR000ASR	A549	https://www.encodeproject.org/files/ENCFF000AGZ/@@download/ENCFF000AGZ.bigWig	532779991
+ENCFF000CHA	ENCFF000CFK	ENCSR000AOP	astrocyte	https://www.encodeproject.org/files/ENCFF000CFK/@@download/ENCFF000CFK.bigWig	851573172
+ENCFF000ANL	ENCFF000AMH	ENCSR000AUW	B cell	https://www.encodeproject.org/files/ENCFF000AMH/@@download/ENCFF000AMH.bigWig	604724546
+ENCFF000CEH	ENCFF000CCL	ENCSR000AUU	CD14-positive monocyte	https://www.encodeproject.org/files/ENCFF000CCL/@@download/ENCFF000CCL.bigWig	520799498
+ENCFF000AQA	ENCFF000ANX	ENCSR000ASA	DND-41	https://www.encodeproject.org/files/ENCFF000ANX/@@download/ENCFF000ANX.bigWig	559102536
+ENCFF000BRY	ENCFF000BQP	ENCSR000ALG	endothelial cell of umbilical vein	https://www.encodeproject.org/files/ENCFF000BQP/@@download/ENCFF000BQP.bigWig	457022218
+ENCFF000CJZ	ENCFF000CIP	ENCSR000APT	fibroblast of dermis	https://www.encodeproject.org/files/ENCFF000CIP/@@download/ENCFF000CIP.bigWig	423015551
+ENCFF000CRL	ENCFF000CQH	ENCSR000AMZ	fibroblast of lung	https://www.encodeproject.org/files/ENCFF000CQH/@@download/ENCFF000CQH.bigWig	364850744
+ENCFF000ASJ	ENCFF000ARD	ENCSR000AKJ	GM12878	https://www.encodeproject.org/files/ENCFF000ARD/@@download/ENCFF000ARD.bigWig	358036021
+ENCFF000AWK	ENCFF000AVH	ENCSR000AMI	H1-hESC	https://www.encodeproject.org/files/ENCFF000AVH/@@download/ENCFF000AVH.bigWig	426083412
+ENCFF000VCU	ENCFF000VDA	ENCSR000EUX	HCT116	https://www.encodeproject.org/files/ENCFF000VDA/@@download/ENCFF000VDA.bigWig	316129147
+ENCFF000BBR	ENCFF000BAH	ENCSR000AOB	HeLa-S3	https://www.encodeproject.org/files/ENCFF000BAH/@@download/ENCFF000BAH.bigWig	874503447
+ENCFF000BFC	ENCFF000BDS	ENCSR000AME	HepG2	https://www.encodeproject.org/files/ENCFF000BDS/@@download/ENCFF000BDS.bigWig	325292790
+ENCFF000BWY	ENCFF000BWA	ENCSR000AKY	K562	https://www.encodeproject.org/files/ENCFF000BWA/@@download/ENCFF000BWA.bigWig	413310279
+ENCFF000CNE	ENCFF000CLX	ENCSR000ALS	keratinocyte	https://www.encodeproject.org/files/ENCFF000CLX/@@download/ENCFF000CLX.bigWig	439530745
+ENCFF000BIB	ENCFF000BGY	ENCSR000AMN	mammary epithelial cell	https://www.encodeproject.org/files/ENCFF000BGY/@@download/ENCFF000BGY.bigWig	438995855
+ENCFF000VFR	ENCFF000VGP	ENCSR000EWW	MCF-7	https://www.encodeproject.org/files/ENCFF000VGP/@@download/ENCFF000VGP.bigWig	415466686
+ENCFF000BOL	ENCFF000BNH	ENCSR000ANT	myotube	https://www.encodeproject.org/files/ENCFF000BNH/@@download/ENCFF000BNH.bigWig	830006082
+ENCFF000CVK	ENCFF000CUS	ENCSR000APU	osteoblast	https://www.encodeproject.org/files/ENCFF000CUS/@@download/ENCFF000CUS.bigWig	798342755
+ENCFF000VJJ	ENCFF000VJM	ENCSR000EXM	Panc1	https://www.encodeproject.org/files/ENCFF000VJM/@@download/ENCFF000VJM.bigWig	294441613
+ENCFF000BLA	ENCFF000BKD	ENCSR000ANN	skeletal muscle myoblast	https://www.encodeproject.org/files/ENCFF000BKD/@@download/ENCFF000BKD.bigWig	414265246
